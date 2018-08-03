@@ -1,0 +1,46 @@
+/*公共*/
+a{
+	text-decoration: none;
+	color: #333;
+}
+img{
+	border: 0 none;
+    vertical-align: top;
+}
+/*顶部图片*/
+.top{
+	width: 1366px;
+	height: 80px;
+	background-color: #ecdcdc;
+}
+.top .topone{
+	width: 1228px;
+	overflow: hidden;
+	position: relative;
+    display: block;
+     margin: 0 auto;
+  }  
+
+.top .topone .big{
+	width: 1228px;
+    height: 250px;
+    display: block;
+
+}
+.top .topone .big img{
+    width: 1228px;
+    height: 250px;
+    margin-left: 0px;
+   
+}
+
+}
+.top .topone .small{
+	height: 80px;
+	width: 1228px;
+	display: block;
+}
+.top .topone .small img{
+	height: 80px;
+	width: 1228px;
+}
